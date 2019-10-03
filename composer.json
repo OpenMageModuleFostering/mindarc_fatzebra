@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MindArc_FatZebra",
+    "name": "OpenMageModuleFostering\/MindArc_FatZebra",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Accept Credit Card Payments quickly and simply with Fat Zebra",
     "authors": [
-    {
-        "name": "Matthew Savage",
-        "email": "support@fatzebra.com.au"
-    }
-],
+        {
+            "name": "Matthew Savage",
+            "email": "support@fatzebra.com.au"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
